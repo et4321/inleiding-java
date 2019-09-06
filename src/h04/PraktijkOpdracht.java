@@ -8,7 +8,7 @@ public class PraktijkOpdracht extends Applet {
     //init
 
     public void init() {
-        setBackground(Color.white);
+        setBackground(Color.lightGray);
     }
 
     //paint

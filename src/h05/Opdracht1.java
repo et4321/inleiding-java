@@ -4,14 +4,15 @@ import java.applet.Applet;
 import java.awt.*;
 
 public class Opdracht1 extends Applet {
-    //declaratie.
+    //declaratie
     Color opvulkleur;
     Color lijnkleur;
     int breedte;
     int hoogte;
 
     public void init() {
-        //initialisatie.
+        setBackground(Color.lightGray);
+        //initialisatie
         opvulkleur = Color.MAGENTA;
         lijnkleur = Color.BLACK;
         breedte = 150;

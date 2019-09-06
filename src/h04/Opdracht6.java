@@ -8,7 +8,7 @@ public class Opdracht6 extends Applet {
     //init
 
     public void init() {
-        setBackground(Color.white);
+        setBackground(Color.lightGray);
     }
 
     //paint

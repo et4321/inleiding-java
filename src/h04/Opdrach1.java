@@ -7,7 +7,7 @@ public class Opdrach1 extends Applet {
 
     //init
 
-    public void init() {setBackground(Color.white); }
+    public void init() {setBackground(Color.lightGray); }
 
     //paint
     public void paint(Graphics g) {
